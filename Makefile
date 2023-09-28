@@ -13,3 +13,5 @@ include .repro/Makefile_Rmds
 publish/: inflation.pdf
 
 inflation.pdf: inflation.tex
+
+include .repro/Makefile_publish
