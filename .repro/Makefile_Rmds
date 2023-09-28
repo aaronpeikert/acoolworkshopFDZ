@@ -1,3 +1,3 @@
-inflation.pdf: inflation.Rmd data/raw/inflation.rds R/prepare_inflation.R
+inflation.tex: inflation.Rmd data/raw/inflation.rds R/prepare_inflation.R r-references.bib
 	$(RUN1) Rscript -e 'rmarkdown::render("$(WORKDIR)/$<", "all")' $(RUN2)
 
