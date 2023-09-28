@@ -117,7 +117,7 @@ inflation %>%
 ```
 
 Inflation is an economic phenomenon characterized by a rise in the general price level of goods and services within an economy over a period of time. 
-When inflation occurs, each unit of currency buys fewer goods and services, indicating a loss of purchasing power. 
+When inflation happens, each unit of currency buys fewer goods and services, indicating a loss of purchasing power. 
 It's usually measured by the Consumer Price Index (CPI) or the Producer Price Index (PPI). 
 Inflation can be triggered by various factors including increased production costs, higher demand for goods and services, and monetary policies. 
 Central banks often aim to control inflation to ensure it remains at a manageable level, as moderate inflation is seen as a sign of a growing economy, while hyperinflation or deflation can be detrimental.
