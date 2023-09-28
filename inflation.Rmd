@@ -66,6 +66,7 @@ repro:
     - tidyverse
     - lubridate
     - aaronpeikert/repro@fc7e884
+    - papaja
   scripts:
     - R/prepare_inflation.R
   data:

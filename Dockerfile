@@ -7,6 +7,7 @@ RUN tlmgr install collection-latexrecommended
 RUN install2.r --error --skipinstalled \ 
   here \ 
   lubridate \ 
+  papaja \ 
   tidyverse
 RUN installGithub.r \ 
   aaronpeikert/repro@fc7e884
